@@ -28,6 +28,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		BE0DED631A64CD1C0017F3BC /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		BE33AAEE1A64C6FF0077B1DB /* PauseMe.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PauseMe.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		BE33AAF21A64C6FF0077B1DB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		BE33AAF31A64C6FF0077B1DB /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -63,6 +64,7 @@
 		BE33AAE51A64C6FF0077B1DB = {
 			isa = PBXGroup;
 			children = (
+				BE0DED631A64CD1C0017F3BC /* README.md */,
 				BE33AAF01A64C6FF0077B1DB /* PauseMe */,
 				BE33AB0A1A64C6FF0077B1DB /* PauseMeTests */,
 				BE33AAEF1A64C6FF0077B1DB /* Products */,
