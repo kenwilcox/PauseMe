@@ -22,6 +22,9 @@ class GameScene: SKScene {
   override func touchesBegan(touches: NSSet, withEvent event: UIEvent) {
     /* Called when a touch begins */
     
+    // if we want a new spaceship - don't pause the scene
+    self.paused = false
+    
     for touch: AnyObject in touches {
       let location = touch.locationInNode(self)
       
